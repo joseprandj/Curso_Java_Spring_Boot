@@ -1,10 +1,10 @@
-package com.educandoweb.course.config;
+package educandoweb.course.config;
 
-import com.educandoweb.course.repositories.UserRepository;
+import educandoweb.course.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
-import com.educandoweb.course.entities.User;
+import educandoweb.course.entities.User;
 
 import java.util.Arrays;
 

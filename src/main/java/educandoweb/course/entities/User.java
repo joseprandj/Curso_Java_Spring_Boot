@@ -1,4 +1,4 @@
-package com.educandoweb.course.entities;
+package educandoweb.course.entities;
 
 import jakarta.persistence.*;
 
